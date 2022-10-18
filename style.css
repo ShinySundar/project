@@ -1,0 +1,41 @@
+*{
+	
+	font-family: sans-serif;
+}
+body{
+	background-color: lightgrey;
+	background-image: url(https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/img4.webp);
+	background-repeat:no-repeat;
+	background-size: 50%;
+	background-position:right; 	
+	background-color: #A47449;
+
+ }
+ .box{
+ 	border: 3px white solid;
+ 	width: 40%;
+ 	margin-left:5%;
+ 	padding: 1%;
+ 	margin-top:0%;
+
+ }
+ .details input{
+ 		width: 50%;
+ 		border-radius: 3px;
+ 		border-width: 5px;
+ 		border-color: whitesmoke;
+ }
+ .Registration{
+ 	margin-right: 30px;
+ 	text-indent: 220px;
+ }
+
+ label{
+ 	font-style: italic;
+ 	font-weight: normal;
+ }
+ button{
+ 	background-color: orange;
+ 	padding: 1%;
+ 	margin-right: 20px;
+ }
